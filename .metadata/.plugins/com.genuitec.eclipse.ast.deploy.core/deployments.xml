@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deployments>
+  <deployment context-root="/MyMavenWeb" deployment-path="D:/javacode/mavenFirst/.metadata/.me_tcat7/webapps/MyMavenWeb" project-name="MyMavenWeb" server-id="myeclipseTomcatServer7" state="DEPLOYED" type="WEB"/>
+</deployments>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="MyMavenWeb">
+        <wb-resource deploy-path="/" source-path="/WebRoot" tag="defaultRootSource"/>
+        <property name="context-root" value="MyMavenWeb"/>
+        <property name="java-output-path" value="/MyMavenWeb/build/classes"/>
+    </wb-module>
+</project-modules>

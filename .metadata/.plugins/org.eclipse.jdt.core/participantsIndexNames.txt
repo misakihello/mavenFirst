@@ -1,0 +1,5 @@
+INDEX VERSION 1.126
+D:\javacode\mavenFirst\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2962182799.index
+\TestWeb Maven Webapp\src\main\resources
+D:\javacode\mavenFirst\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3894432691.index
+\MyMavenWeb\src

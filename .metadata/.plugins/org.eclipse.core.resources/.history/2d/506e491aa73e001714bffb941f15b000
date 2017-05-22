@@ -1,0 +1,14 @@
+package aa.bb;
+
+import junit.framework.Test;
+import junit.framework.TestCase;
+import junit.framework.TestSuite;
+
+public class TestPhone {
+	@Test
+	public void testGetSdcard(){
+		Phone phone = new Phone();
+		String sdcard = phone.getSdcard();
+		System.out.println(sdcard);		
+	}
+}

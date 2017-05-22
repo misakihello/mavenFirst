@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.launching.PREF_DEFAULT_ENVIRONMENTS_XML=
+org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1495419441416">\r\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n<vm id\="1495378128449" name\="com.sun.java.jdk.win32.x86_64_1.6.0.u43" path\="D\:\\Program Files (x86)\\myeclipse\\binary\\com.sun.java.jdk.win32.x86_64_1.6.0.u43"/>\r\n<vm id\="1495418715410" name\="jre1.8.0_65" path\="C\:\\Program Files (x86)\\Java\\jre1.8.0_65"/>\r\n<vm id\="1495419441416" name\="jre7" path\="C\:\\Program Files\\Java\\jre7"/>\r\n</vmType>\r\n</vmSettings>\r\n
